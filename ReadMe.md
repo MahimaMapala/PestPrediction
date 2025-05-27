@@ -5,13 +5,16 @@ This project is a machine learning model built with XGBoost & Deeplearning model
 
 
 ## Create virtual environment - windows
+create
 python -m venv env
+
+activate
 .\env\Scripts\Activate.ps1 
 
-## Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
-## To close env
+To close env
 deactivate
 
 
