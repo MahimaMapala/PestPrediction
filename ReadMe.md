@@ -9,7 +9,7 @@ This project involves building machine learning models to **predict the type of 
 
 ---
 
-## ⚙️ Models Overview
+## Models Overview
 
 ### XGBoost Classifier
 - Handles class imbalance using **SMOTE (Synthetic Minority Over-sampling Technique)** before training.
@@ -22,7 +22,7 @@ This project involves building machine learning models to **predict the type of 
 
 ---
 
-## 🧪 Virtual Environment Setup (Windows)
+## Virtual Environment Setup (Windows)
 
 ### Create Virtual Environment
 ```bash
